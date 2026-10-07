@@ -51,7 +51,7 @@ Features include:
 - Custom administrative dashboard
 - First-party visitor and behavioral analytics
 
-[View Website]([https://herbalur.com/](url))
+[View Website](https://herbalur.com/)
 
 [View Repository](https://github.com/BrandonJWillingham/herbalur)
 
@@ -81,7 +81,7 @@ My personal portfolio and digital business card combining my professional modeli
 
 The site includes modeling campaigns, performance videos, booking information, a music portfolio, and direct contact functionality.
 
-[View Website]([https://prayerwithlcsm.com/](url))
+
 
 [View Repository](https://github.com/BrandonJWillingham/josiah-site)
 
