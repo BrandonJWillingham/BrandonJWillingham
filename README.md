@@ -1,5 +1,3 @@
-# Hey, I'm Josiah 👋
-
 I'm a frontend-focused full-stack developer based in New York, building production web applications with **React, Next.js, TypeScript, Node.js, PostgreSQL, and modern web APIs**.
 
 I enjoy building software that solves real business problems — from e-commerce platforms and internal management systems to automation tools and client websites.
