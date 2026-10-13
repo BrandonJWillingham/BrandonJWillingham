@@ -2,8 +2,6 @@ I'm a frontend-focused full-stack developer based in New York, building producti
 
 I enjoy building software that solves real business problems — from e-commerce platforms and internal management systems to automation tools and client websites.
 
-Outside of development, I also work professionally in **modeling and music**, which has given me a strong interest in design, branding, user experience, and building digital products for creators and businesses.
-
 ## What I'm Working With
 
 [![Next.js][Next.js]][Next-url]
