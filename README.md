@@ -1,4 +1,4 @@
-I'm a frontend-focused full-stack developer based in New York, building production web applications with **React, Next.js, TypeScript, Node.js, PostgreSQL, and modern web APIs**.
+I'm a frontend-focused full-stack developer based in New York, building production web applications with React, Next.js, TypeScript, Node.js, and PostgreSQL.
 
 I enjoy building software that solves real business problems — from e-commerce platforms and internal management systems to automation tools and client websites.
 
@@ -34,7 +34,7 @@ Outside of development, I also work professionally in **modeling and music**, wh
 
 ## Featured Projects
 
-### 🌿 Herbalur
+### Herbalur
 
 A production-focused full-stack e-commerce platform developed for a natural skincare, haircare, and wellness brand.
 
@@ -57,7 +57,7 @@ Features include:
 
 ---
 
-### 🙏 Liberty Prayer Breakfast
+### Liberty Prayer Breakfast
 
 A responsive event website developed for a real organization to provide event information and replace manual attendee registration with a digital RSVP workflow.
 
@@ -73,7 +73,7 @@ Features include:
 
 ---
 
-### 🎸 Josiah Portfolio
+### Josiah Portfolio
 
 My personal portfolio and digital business card combining my professional modeling portfolio with my work as a live and session bass player.
 
@@ -87,7 +87,7 @@ The site includes modeling campaigns, performance videos, booking information, a
 
 ---
 
-### 🤖 Instagram Engagement Automation
+### Instagram Engagement Automation
 
 A Node.js browser automation project built to explore automated social-media workflows, media processing, and speech-to-text systems.
 
